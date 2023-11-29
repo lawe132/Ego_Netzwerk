@@ -1,4 +1,4 @@
-# Ego-Netzwerk, Laura Wehle
+# Ego-Netzwerk, lw132
 
 
 ## Inhalt
